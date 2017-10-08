@@ -2026,7 +2026,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// Layer 1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f().s("rgba(0,0,0,0.498)").ss(2,1,1).p("A6P13MA0fAAAMAAAArvMg0fAAAg");
+	this.shape.graphics.f().s("rgba(0,0,0,0.098)").ss(2,1,1).p("A6P13MA0fAAAMAAAArvMg0fAAAg");
 	this.shape.setTransform(168,140);
 
 	this.shape.mask = mask;
